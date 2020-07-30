@@ -1,8 +1,8 @@
 ### Hi there 👋
 Enjoy this small poem while you work. Good Luck!
 
-Your voice is my guiding light
-A bird cries out
+Your voice is my guiding light/n
+A bird cries out/n
 Looking for me within a nameless sky
 I will head for tomorrow 
 in this cradle woven from kindness
