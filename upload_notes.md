@@ -1,4 +1,4 @@
-Upload Release To GitHub
+#Upload Release To GitHub
 ------------------------
 sudo snap install hub --classic
 Move rom.zip to git device tree repo folder.
@@ -6,16 +6,16 @@ cp -v rom.zip ../../../../device/oppo/CPH1859
 hub release create -a rom.zip -m "Release Message" v1
 Input GitHub Username And Password
 
-Upload Release To SourceForge
+#Upload Release To SourceForge
 -----------------------------
 scp rom.zip username@frs.sourceforge.net:home/frs/project/realme1/RomFolder
 Input Password
 
-Upload Release To Bashupload (File Stored For A Week)
+#Upload Release To Bashupload (File Stored For A Week)
 -----------------------------------------------------
 curl https://bashupload.com/rom.zip --data-binary @rom.zip
 
-Upload Release To Transfer.sh (File Stored For Two Weeks)
+#Upload Release To Transfer.sh (File Stored For Two Weeks)
 ---------------------------------------------------------
 curl --upload-file ./rom.zip https://transfer.sh/rom.zip
 
