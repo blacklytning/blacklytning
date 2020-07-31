@@ -13,8 +13,11 @@ Move rom.zip to git device tree repo folder.
 # Upload Release To Bashupload 
 
     curl https://bashupload.com/rom.zip --data-binary @rom.zip
+    
+File is stored for a week only.
 
 # Upload Release To Transfer.sh
 
     curl --upload-file ./rom.zip https://transfer.sh/rom.zip
 
+File is stored for two weeks.
