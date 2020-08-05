@@ -1,5 +1,7 @@
-# Create A New User And Give SU access
+# Create A New User
 
+Add User Command
+  
   adduser zenith
   
 Grant sudo permission.
