@@ -21,3 +21,9 @@ File is stored for a week only.
     curl --upload-file ./rom.zip https://transfer.sh/rom.zip
 
 File is stored for two weeks.
+
+# Upload Release To 0x0.st
+
+    curl -F'file=@rom.zip' http://0x0.st
+   
+File size limit 512MB. Stored for a month.
