@@ -3,7 +3,8 @@
 Move rom.zip to git device tree repo folder.
 
     sudo snap install hub --classic
-    cp -v rom.zip ../../../../device/oppo/CPH1859
+    cp -v rom.zip ../../../../device/brand/codename
+    Example - cp -v rom.zip ../../../../device/oppo/CPH1859
     hub release create -a rom.zip -m "Release Message" v1
 
 # Upload Release To SourceForge
