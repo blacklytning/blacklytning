@@ -23,9 +23,9 @@ This is different for each rom check their manifest.
       . build/envsetup.sh
       lunch customrom_codename-userdebug
       brunch codename
-
       
-         
-
-   
-    
+# Set up Repo Tool
+      mkdir ~/bin
+      PATH=~/bin:$PATH
+      curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
+      chmod a+x ~/bin/repo
