@@ -40,4 +40,6 @@ This is different for each rom check their manifest.
      
 # Sync Repo
 Check ROM's manifest to sync repo
+
+Credits :- buddi56
       
