@@ -19,6 +19,7 @@ Sets cache limit to 80GB replace 80 with smaller number if diskspace is low.
 
 # Start Build
 This is different for each rom check their manifest.
+      
       . build/envsetup.sh
       lunch customrom_codename-userdebug
       brunch codename
