@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regulary write articles on (blog soon).
+- 📝 I regulary write articles on **<a href="blacklytning.github.io">**blacklytning.github.io**</a>.
 
 - 📫 How to reach me **blacklytning@yandex.com**
 
