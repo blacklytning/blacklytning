@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-
+# The following file was kanged from https://github.com/akhilnarang/scripts for setting up buildenv as cloning whole repo was pointless for me.
+# If u wish it to be removed please email/contact on telegram.
 # Copyright (C) 2018 Harsh 'MSF Jarvis' Shandilya
 # Copyright (C) 2018 Akhil Narang
 # SPDX-License-Identifier: GPL-3.0-only
