@@ -1,5 +1,6 @@
 # Upload Release To GitHub
 Go to romdirectory/out/target/product/codename
+    
     sudo snap install hub --classic
     cp -v rom.zip ../../../../device/brand/codename
     Example - cp -v rom.zip ../../../../device/oppo/CPH1859
