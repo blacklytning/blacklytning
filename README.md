@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regulary write articles on <a href="https://blacklytning.github.io">blacklytning.github.io</a>.
-
 - 📫 How to reach me **blacklytning@yandex.com**
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=blacklytning&show_icons=true" alt="blacklytning" />
 
